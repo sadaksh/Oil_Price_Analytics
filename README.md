@@ -1,7 +1,4 @@
 # Multivariate Analysis-Oil Price Prediction Using LSTM & GRU
-![My Image](oil_pic_1.png)
-![My Image](oil_pic_2.png)
-
 
 ## Project Overview 
 We carry out Analysis between variables like **West Texas intermediate(WTI),Gold Futures , US Dollar Index Futures, US 10 Year Bond Yield,Gold Futures, S&P 500,Dow Jones Utility Average**. 
